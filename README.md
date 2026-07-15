@@ -1,2 +1,10 @@
-# Python-code
-This repository contains my python practice programs. 
+# Java Basics
+This repository contains my java practice programs. 
+Topics:
+-Variables
+-If Else
+-Loops
+-Arrays
+-Methods
+
+Created by:Viji
